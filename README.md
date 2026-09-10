@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/thilak004/LeetCode/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/thilak004/LeetCode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
