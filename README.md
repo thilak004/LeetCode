@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thilak004/LeetCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/thilak004/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/thilak004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/thilak004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thilak004/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
