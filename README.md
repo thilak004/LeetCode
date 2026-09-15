@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/thilak004/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/thilak004/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thilak004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/thilak004/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thilak004/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thilak004/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/thilak004/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
