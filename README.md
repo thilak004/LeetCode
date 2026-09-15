@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thilak004/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/thilak004/LeetCode/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/thilak004/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/thilak004/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/thilak004/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thilak004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/thilak004/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/thilak004/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/thilak004/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thilak004/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/thilak004/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/thilak004/LeetCode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2373-largest-local-values-in-a-matrix](https://github.com/thilak004/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/thilak004/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
