@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thilak004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/thilak004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/thilak004/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/thilak004/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/thilak004/LeetCode/tree/master/0409-longest-palindrome) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thilak004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/thilak004/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thilak004/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/thilak004/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/thilak004/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/thilak004/LeetCode/tree/master/0409-longest-palindrome) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thilak004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/thilak004/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/thilak004/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thilak004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/thilak004/LeetCode/tree/master/1051-height-checker) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/thilak004/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
