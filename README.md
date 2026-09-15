@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/thilak004/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/thilak004/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/thilak004/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/thilak004/LeetCode/tree/master/1051-height-checker) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thilak004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/thilak004/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/thilak004/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thilak004/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/thilak004/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thilak004/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/thilak004/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/thilak004/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/thilak004/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/thilak004/LeetCode/tree/master/1051-height-checker) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thilak004/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
