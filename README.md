@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/thilak004/LeetCode/tree/master/1051-height-checker) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thilak004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/thilak004/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2540-minimum-common-value](https://github.com/thilak004/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thilak004/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/thilak004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/thilak004/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/thilak004/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thilak004/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/thilak004/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/thilak004/LeetCode/tree/master/0409-longest-palindrome) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thilak004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2540-minimum-common-value](https://github.com/thilak004/LeetCode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thilak004/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thilak004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/thilak004/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [2540-minimum-common-value](https://github.com/thilak004/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thilak004/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
