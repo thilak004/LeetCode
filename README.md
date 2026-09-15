@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thilak004/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/thilak004/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/thilak004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/thilak004/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thilak004/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thilak004/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/thilak004/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/thilak004/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thilak004/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/thilak004/LeetCode/tree/master/0383-ransom-note) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/thilak004/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/thilak004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/thilak004/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/thilak004/LeetCode/tree/master/0912-sort-an-array) |
