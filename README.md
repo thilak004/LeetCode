@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/thilak004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/thilak004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thilak004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/thilak004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/thilak004/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thilak004/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thilak004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/thilak004/LeetCode/tree/master/0013-roman-to-integer) |
 | [3870-count-commas-in-range](https://github.com/thilak004/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
