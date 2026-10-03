@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thilak004/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/thilak004/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/thilak004/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/thilak004/LeetCode/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thilak004/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/thilak004/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thilak004/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thilak004/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thilak004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thilak004/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/thilak004/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thilak004/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/thilak004/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thilak004/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thilak004/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/thilak004/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thilak004/LeetCode/tree/master/0268-missing-number) |
