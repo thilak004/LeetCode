@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/thilak004/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/thilak004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/thilak004/LeetCode/tree/master/1051-height-checker) |
+| [1480-running-sum-of-1d-array](https://github.com/thilak004/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thilak004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/thilak004/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2540-minimum-common-value](https://github.com/thilak004/LeetCode/tree/master/2540-minimum-common-value) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/thilak004/LeetCode/tree/master/0595-big-countries) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/thilak004/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
